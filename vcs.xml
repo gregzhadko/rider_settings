@@ -6,7 +6,12 @@
           <option name="url" value="http://github.com/gregzhadko/CrackingTheCoding.git" />
           <option name="userName" value="gregzhadko@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gregzhadko@bitbucket.org/gregzhadko/sql-parser-test.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="D:\Repo" />
   </component>
 </application>
